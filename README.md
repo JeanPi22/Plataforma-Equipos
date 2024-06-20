@@ -1,4 +1,4 @@
-### Plataforma de equipos
+# Plataforma de equipos
 
 <p>
 El proyecto se llama "Org" y es una plataforma que va a ayudar a organizar tanto las personas como equipos de una empresa. usando HTML, CSS, JAVASCRIPT y REACT.
@@ -9,7 +9,7 @@ El proyecto se llama "Org" y es una plataforma que va a ayudar a organizar tanto
 - JavaScript
 - React.
 
-# React + Vite
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
